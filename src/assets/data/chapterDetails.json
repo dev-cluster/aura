@@ -1,34 +1,34 @@
 {
     "ChapterName":"Dev Cluster Goa",
-    "ChapterShortDescription":"",
+    "ChapterShortDescription":"Dev Cluster is a community of ", // need to add 
     "ChapterLongDec":"Google Developer Group Jalandhar is inspired by GTUG/GDG Family . We started our journey in Feb 2011. We try to engage student developers, fresh graduates and professionals through our hack events & meetups. The motive is to create a local ecosystem of programmers & hackers in and around Jalandhar. The technology awareness is main goal for first few years of the group.",
-    "ChapterMeetupLink":"https://www.meetup.com/GDG-Jalandhar",
+    "ChapterMeetupLink":"",
     "ChapterEmail":"contact@devcluster.community",
-    "website":"https://gdgjalandhar.com",
-    "GDGProgramWebsite":"https://developers.google.com/programs/community/",
-    "ChapterHashTags":["GDGJalandhar","WTMJalandhar","GDG","WTM"],
+    "website":"https://devcluster.community",
+    "GDGProgramWebsite":"https://devcluster.community",
+    "ChapterHashTags":["DevCluster","DevClusterGoa","DCG","Facebook"],
     "socialLinks":[
         {
             "name" : "Facebook",
-            "link" : "https://www.facebook.com/GDGJalandhar/",
+            "link" : "https://www.facebook.com/DevClusterGoa",
             "icon" : "fab fa-facebook"
         },
         {
-            "name" : "Google Plus",
-            "link" : "https://plus.google.com/u/0/+GdgjalandharIn/posts",
-            "icon" : "fab fa-google-plus"
+            "name" : "Instagram",
+            "link" : "https://www.instagram.com/devclustergoa",
+            "icon" : "fab fa-instagram"
         },
         {
             "name" : "Twitter",
-            "link" : "https://twitter.com/gdgjalandhar",
+            "link" : "https://twitter.com/devclustergoa",
             "icon" : "fab fa-twitter"
         },
         {
             "name" : "Meetup",
-            "link" : "https://www.meetup.com/GDG-Jalandhar/",
+            "link" : "",
             "icon" : "fab fa-meetup"
         }
     ],
-    "wtmWebsite":"https://www.womentechmakers.com/",
-    "aboutGDGProgram":"GDGs are local groups of developers who are specifically interested in Google products and APIs. Each local group is called a GDG chapter and can host a variety of technical activities for developers - from just a few people getting together to watch our latest videos, to large gatherings with demos and tech talks, to hackathons."
+    "wtmWebsite":"",
+    "aboutGDGProgram":""
 }
