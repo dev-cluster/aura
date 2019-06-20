@@ -1,7 +1,7 @@
 <template>
   <v-content class="pa-0">
 
-    <v-container fluid class="mt-3 mb-0">
+    <v-container fluid class=" mb-0" style="background-color:#303030">
       <v-layout wrap align-center justify-center row fill-height class="my-0">
         <v-flex xs12 md10 class="my-0">
             <p class="google-font mb-0" style="font-size:200%;color:#616161">Our lineup of big thinkers and even bigger doers</p>
@@ -13,7 +13,7 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid >
+    <v-container fluid style="background-color:#303030">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
           <coreTeam/>
@@ -21,7 +21,7 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid >
+    <v-container fluid style="background-color:#303030">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
           <organizingTeam/>

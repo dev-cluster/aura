@@ -1,6 +1,6 @@
 <template>
   <v-footer
-    color="white"
+    color="grey"
     height="auto"
     class="hidden-sm-and-down"
   >

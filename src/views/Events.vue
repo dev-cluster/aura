@@ -1,7 +1,7 @@
 <template>
   <v-content class="pa-0">
 
-    <v-container fluid class="pt-3 mb-0 grey lighten-5">
+    <v-container fluid class="pt-3 mb-0 grey lighten-5" >
       <v-layout wrap align-center justify-center row fill-height class="my-0">
         <v-flex xs12 md10 class="my-0">
             <p class="google-font mb-0" style="font-size:200%;color:#0277bd">{{ChapterDetails.ChapterName}}'s Events</p>
@@ -10,7 +10,7 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid class="grey lighten-5">
+    <v-container fluid class="grey lighten-5" >
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
           <upcommingEvents/>
