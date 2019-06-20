@@ -1,46 +1,100 @@
 [
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://github.com/",
-        "profileImage":"",
-        "website":""
-    },
-    {
-        "name":"Name",
+        "name":"Ahmad Shah",
         "designation":"Management",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"",
+        "twitter":"#",
+        "linkedin":"https://www.linkedin.com/in/ahmad-shah-71344b149/",
+        "github":"#",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://www.linkedin.com/",
-        "github":"https://www.github.com/",
+        "name":"Ashroya Dias",
+        "designation":"Management",
+        "twitter":"#",
+        "linkedin":"https://www.linkedin.com/in/ashroya-monica-dias-500559143/",
+        "github":"#",
         "profileImage":"",
         "website":""
     },
     {
-        "name":"Name",
-        "designation":"Development",
-        "twitter":"https://twitter.com/",
-        "linkedin":"https://linkedin.com/",
-        "github":"https://github.com/",
+        "name":"Mahima Tendulkar",
+        "designation":"Management",
+        "twitter":"#",
+        "linkedin":"https://www.linkedin.com/in/mahima-tendulkar-694baa149/",
+        "github":"https://github.com/mahimatendulkar",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Mrunal Thakur",
+        "designation":"Management",
+        "twitter":"#",
+        "linkedin":"https://www.linkedin.com/in/msthakur/",
+        "github":"#",
         "profileImage":"",
         "website":"https://github.com"
     },
     {
-        "name":"Name",
+        "name":"Prachi Mahambrey",
+        "designation":"Management",
+        "twitter":"https://twitter.com/PrachiMahambrey",
+        "linkedin":"https://www.linkedin.com/in/prachimahambrey/",
+        "github":"#",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Rudraksh Kankekar",
+        "designation":"Graphic Design",
+        "twitter":"https://twitter.com/rude_drax",
+        "linkedin":"https://www.linkedin.com/in/rudraksh-kanekar-63a403184/",
+        "github":"https://github.com/RudrakshK",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Shawn Pereira",
+        "designation":"Management",
+        "twitter":"https://twitter.com/Incept_shawn",
+        "linkedin":"https://www.linkedin.com/in/shawn-pereira/",
+        "github":"https://github.com/recurshawn",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Shrey Keni",
+        "designation":"Development",
+        "twitter":"https://twitter.com/ShreyKeny",
+        "linkedin":"https://www.linkedin.com/in/shreykeny/",
+        "github":"https://github.com/shreykeny",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Twishi Saran",
+        "designation":"Logistics",
+        "twitter":"https://twitter.com/TwishiSaran",
+        "linkedin":"#",
+        "github":"#",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Daniel Fernandes",
+        "designation":"Photography",
+        "twitter":"#",
+        "linkedin":"#",
+        "github":"#",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Vipul Chodankar",
         "designation":"Development",
         "twitter":"https://twitter.com/",
-        "linkedin":"",
-        "github":"https://github.com/",
+        "linkedin":"https://www.linkedin.com/in/vipulchodankar/",
+        "github":"https://github.com/vipulchodankar/",
         "profileImage":"",
         "website":""
     }
