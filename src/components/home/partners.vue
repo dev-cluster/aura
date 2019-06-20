@@ -14,7 +14,7 @@
                 <v-layout row wrap class="transparent">
                     <v-flex xs12 sm7 class="elevation-0 transparent">
                         <v-card class="elevation-0 pa-0 ma-0 transparent">
-                            <v-container grid-list-sm fluid class="pa-0 ma-0">
+                            <v-container grid-list-sm fluid class="pa-0 ma-0" >
                                 <v-layout row wrap class="ma-0 pa-0">
                                     <v-flex
                                         v-for="(itemp,i) in partnerData" :key="i"
@@ -22,7 +22,7 @@
                                         md3
                                         sm4
                                         d-flex
-                                        class="pa-0 white elevation-0" 
+                                        class="pa-0 elevation-0" 
                                     >
                                     <!-- style="border-radius:5px;border-color:#e0e0e0;border-width: 1px; border-style: solid;" -->
                                     <v-card flat tile class="d-flex pa-2 ma-1 elevation-1" style="border-radius:4px;border-width: 0px; border-style: solid;">
@@ -76,7 +76,7 @@
                                         md2
                                         sm4
                                         d-flex
-                                        class="white elevation-0"
+                                        class="elevation-0"
                                     >
                                     <v-card flat tile class="d-flex pa-2 ma-1 elevation-1" style="border-radius:5px;border-width: 1px; border-style: solid;">
                                         <a href="https://gdgjalandhar.com" target="_blank">
