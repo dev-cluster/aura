@@ -1,11 +1,11 @@
 [
     {
-        "name":"Tanmay Naik Pereira",
+        "name":"Tanmay Pereira Naik",
         "designation":"Community Manager",
         "twitter":"https://twitter.com/Ser_Tanmay",
         "linkedin":"https://www.linkedin.com/in/tanmay-pereira-naik-6a9153118/",
         "github":"https://github.com/SerTanmay",
-        "profileImage":"",
+        "profileImage":"tanmay.jpeg",
         "website":""
     },
     {
@@ -14,7 +14,7 @@
         "twitter":"#",
         "linkedin":"https://www.linkedin.com/in/shalakha-kulkarni-810576170/",
         "github":"#",
-        "profileImage":"",
+        "profileImage":"shalakha.jpeg",
         "website":""
     },
     {
@@ -23,7 +23,7 @@
         "twitter":"https://twitter.com/iamvardhana",
         "linkedin":"https://www.linkedin.com/in/vardhana-navelker/",
         "github":"#",
-        "profileImage":"",
+        "profileImage":"vardhana.jpeg",
         "website":""
     }
 ]

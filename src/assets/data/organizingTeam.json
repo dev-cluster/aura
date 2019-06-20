@@ -5,7 +5,7 @@
         "twitter":"#",
         "linkedin":"https://www.linkedin.com/in/ahmad-shah-71344b149/",
         "github":"#",
-        "profileImage":"",
+        "profileImage":"ahmad.jpeg",
         "website":""
     },
     {
@@ -14,7 +14,7 @@
         "twitter":"#",
         "linkedin":"https://www.linkedin.com/in/ashroya-monica-dias-500559143/",
         "github":"#",
-        "profileImage":"",
+        "profileImage":"ashroya.jpeg",
         "website":""
     },
     {
@@ -23,7 +23,7 @@
         "twitter":"#",
         "linkedin":"https://www.linkedin.com/in/mahima-tendulkar-694baa149/",
         "github":"https://github.com/mahimatendulkar",
-        "profileImage":"",
+        "profileImage":"mahima.jpeg",
         "website":""
     },
     {
@@ -32,8 +32,8 @@
         "twitter":"#",
         "linkedin":"https://www.linkedin.com/in/msthakur/",
         "github":"#",
-        "profileImage":"",
-        "website":"https://github.com"
+        "profileImage":"mrunal.jpeg",
+        "website":""
     },
     {
         "name":"Prachi Mahambrey",
@@ -41,7 +41,7 @@
         "twitter":"https://twitter.com/PrachiMahambrey",
         "linkedin":"https://www.linkedin.com/in/prachimahambrey/",
         "github":"#",
-        "profileImage":"",
+        "profileImage":"prachi.jpeg",
         "website":""
     },
     {
@@ -59,7 +59,7 @@
         "twitter":"https://twitter.com/Incept_shawn",
         "linkedin":"https://www.linkedin.com/in/shawn-pereira/",
         "github":"https://github.com/recurshawn",
-        "profileImage":"",
+        "profileImage":"shawn.jpeg",
         "website":""
     },
     {
@@ -68,7 +68,7 @@
         "twitter":"https://twitter.com/ShreyKeny",
         "linkedin":"https://www.linkedin.com/in/shreykeny/",
         "github":"https://github.com/shreykeny",
-        "profileImage":"",
+        "profileImage":"shrey.jpeg",
         "website":""
     },
     {
@@ -95,7 +95,7 @@
         "twitter":"https://twitter.com/",
         "linkedin":"https://www.linkedin.com/in/vipulchodankar/",
         "github":"https://github.com/vipulchodankar/",
-        "profileImage":"",
+        "profileImage":"vipul.jpeg",
         "website":""
     }
 ]
