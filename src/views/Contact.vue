@@ -1,10 +1,10 @@
 <template>
-  <v-content class="pa-0">
-    <v-container fluid class="mt-2 mb-0">
+  <v-content class="pa-0 dcfont">
+    <v-container fluid class="mt-0 mb-0" style="background-color:#303030">
       <v-layout wrap align-start justify-center row fill-height class="my-0">
         <v-flex xs12 md8 class="mb-0">
           
-          <p class="google-font mb-0 mt-3" style="font-size:200%;color:#616161">Contact {{ChapterDetails.ChapterName}}</p>
+          <p class="google-font mb-0 mt-3" style="font-size:200%;color:#0277BD">Contact {{ChapterDetails.ChapterName}}</p>
           <!-- <v-divider></v-divider> -->
           <p class="google-font mt-3" style="font-size:110%">Our events are open to newbies, students, developers, managers, and organizations who are interested in upcoming and relevant technologies and tools enabling developers.</p>
           
@@ -64,3 +64,9 @@ import ChapterDetails from '@/assets/data/chapterDetails.json'
     },
   }
 </script>
+
+<style>
+  .dcfont{
+    color:white;
+  }
+</style>
