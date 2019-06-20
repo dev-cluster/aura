@@ -27,6 +27,11 @@
             "name" : "Linkedin",
             "link" : "https://www.linkedin.com/company/devclustergoa/",
             "icon" : "fab fa-linkedin"
+        },
+        {
+            "name" : "YouTube",
+            "link" : "https://www.youtube.com/channel/UCkhOhL-IzdTJS2Vd8tKf_5A",
+            "icon" : "fab fa-youtube"
         }
     ],
     "wtmWebsite":"",
