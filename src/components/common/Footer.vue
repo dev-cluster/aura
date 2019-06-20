@@ -52,7 +52,7 @@
       <v-layout wrap justify-center row class="mb-0">
         <v-flex xs12 md10 lg10>
           <v-divider></v-divider>
-           <v-toolbar flat color="white" class="pa-0 mx-0" style="padding:0 !important" >
+           <v-toolbar flat color="grey" class="pa-0 mx-0" style="padding:0 !important" >
               <v-toolbar-title class="google-font pl-0 ml-0 mr-3" style="font-size:200%">{{ChapterDetails.ChapterName}}</v-toolbar-title>
 
               <v-btn
