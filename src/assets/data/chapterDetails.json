@@ -24,9 +24,9 @@
             "icon" : "fab fa-twitter"
         },
         {
-            "name" : "Meetup",
-            "link" : "",
-            "icon" : "fab fa-meetup"
+            "name" : "Linkedin",
+            "link" : "https://www.linkedin.com/company/devclustergoa/",
+            "icon" : "fab fa-linkedin"
         }
     ],
     "wtmWebsite":"",

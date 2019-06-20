@@ -2,7 +2,7 @@
     "AboutSession":[
         {
             "LinkName":"Dev Cluster Goa",
-            "Link":"/"
+            "Link":"#"
         },
         {
             "LinkName":"Google Developers Groups",
@@ -14,17 +14,17 @@
         },
         {
             "LinkName":"Become a Member",
-            "Link":"https://www.meetup.com/GDG-Jalandhar/"
+            "Link":"#"
         }
     ],
     "ChapterResourcesSession":[
         {
             "LinkName" : "Become a Sponsor",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "Link" : "mailto:contact@devcluster.community"
         },
         {
             "LinkName" : "Call for Speaker",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "Link" : "mailto:contact@devcluster.community"
         },
         {
             "LinkName" : "Media Kit",
