@@ -1,6 +1,6 @@
 {
-  "name": "GDG Web App",
-  "short_name": "GDG Web App",
+  "name": "Dev Cluster Web App",
+  "short_name": "Dev Cluster",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
