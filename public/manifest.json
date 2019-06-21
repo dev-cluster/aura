@@ -1,6 +1,6 @@
 {
-  "name": "GDG Web App",
-  "short_name": "GDG Web App",
+  "name": "Dev Cluster Web App",
+  "short_name": "Dev Cluster",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
@@ -17,5 +17,5 @@
   "display": "standalone",
   "background_color": "#ffff",
   "theme_color": "#0277bd",
-  "description": "Aura is the website template that helps you to set GDG's Communities website with events, team and management in a few minutes."
+  "description": "Dev Cluster is an initiative by a group of Goan tech enthusiasts to help build a strong tech community and ensure that knowledge directly reaches the Goan public with ease."
 }
