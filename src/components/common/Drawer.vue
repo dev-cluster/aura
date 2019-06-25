@@ -1,15 +1,16 @@
 <template>
-  <v-navigation-drawer
+  <v-navigation-drawer style="background-color:#bbbbbb"
     v-model="drawer"
     app
     temporary
   >
     
-    <v-flex xs12 class="pl-3 pt-5 grey lighten-5 pb-2">
+    <v-flex xs12 class="pl-3 pt-5  lighten-5 pb-2">
       <v-img
-            :src="require('@/assets/img/dc-transparent.png')"
-            :lazy-src="require('@/assets/img/dc-transparent.png')"
-            width="10vh">
+            :src="require('@/assets/img/svg/dclogo.svg')"
+            :lazy-src="require('@/assets/img/svg/dclogo.svg')"
+            width="40vh"
+            >
             <v-layout
                 slot="placeholder"
                 fill-height
