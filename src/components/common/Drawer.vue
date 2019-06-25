@@ -7,8 +7,8 @@
     
     <v-flex xs12 class="pl-3 pt-5 grey lighten-5 pb-2">
       <v-img
-            :src="require('@/assets/img/logo.png')"
-            :lazy-src="require('@/assets/img/logo.png')"
+            :src="require('@/assets/img/dc-transparent.png')"
+            :lazy-src="require('@/assets/img/dc-transparent.png')"
             width="10vh">
             <v-layout
                 slot="placeholder"
