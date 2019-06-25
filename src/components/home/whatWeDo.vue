@@ -3,7 +3,11 @@
         <v-layout wrap align-center justify-center row fill-height >
            <v-flex xs12 md3 lg3 class="pa-2">
                <p class="google-font" style="font-size:180%">What we do?</p>
+<<<<<<< HEAD
                <p class="google-font" style="font-size:110%">Dev Cluster is a tech community for engineers and developers to learn and grow together.</p>
+=======
+               <p class="google-font" style="font-size:110%"> Dev Cluster Goa organises talk and coding sessions, enabling the student and developer community in Goa.</p>
+>>>>>>> a507e90c7eb89192fea3b5a9068a43453482472b
 
                <p class="google-font" style="font-size:110%">About different Google technologies</p>
 

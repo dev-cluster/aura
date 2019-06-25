@@ -1,5 +1,6 @@
 [
     {
+<<<<<<< HEAD
         "name":"91Springboard Goa",
         "link":"https://www.meetup.com/91springboard-Goa/",
         "img":"91springboard.png"
@@ -8,11 +9,21 @@
         "name":"Facebook Developer Circles",
         "link":"https://developers.facebook.com/developercircles",
         "img":"facebookdevc.jpeg"
+=======
+        "name":"91Springboard",
+        "link":"https://www.91springboard.com/",
+        "img":"91SB.png"
     },
     {
-        "name":"GDG[x]",
-        "link":"https://github.com/gdg-x",
-        "img":"gdg-x.svg"
+        "name":"",
+        "link":"",
+        "img":""
+>>>>>>> a507e90c7eb89192fea3b5a9068a43453482472b
+    },
+    {
+        "name":"",
+        "link":"",
+        "img":""
     }
 
 ]
