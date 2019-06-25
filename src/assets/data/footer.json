@@ -1,20 +1,12 @@
 {
     "AboutSession":[
         {
-            "LinkName":"Dev Cluster Goa",
-            "Link":"#"
+            "LinkName":"Dev Cluster",
+            "Link":"/about"
         },
         {
-            "LinkName":"Google Developers Groups",
-            "Link":"https://developers.google.com/programs/community/gdg/"
-        },
-        {
-            "LinkName":"WomenTechamkers",
-            "Link":"https://www.womentechmakers.com/"
-        },
-        {
-            "LinkName":"Become a Member",
-            "Link":"#"
+            "LinkName":"Join Us Today",
+            "Link":"mailto:contact@devcluster.community"
         }
     ],
     "ChapterResourcesSession":[
@@ -28,25 +20,17 @@
         },
         {
             "LinkName" : "Media Kit",
-            "Link" : "https://drive.google.com/drive/folders/16rHDaHbuS_YApMWgJHUxygpd-A5gCkLK"
+            "Link" : ""
         }
     ],
     "DevConsole":[
         {
-            "LinkName" : "Google API Console",
-            "Link" : "https://console.developers.google.com/"
+            "LinkName" : "Google Developers",
+            "Link" : "https://developers.google.com/"
         },
         {
-            "LinkName" : "GCP Console",
-            "Link" : "https://console.cloud.google.com/"
-        },
-        {
-            "LinkName" : "Google Play Console",
-            "Link" : "https://console.cloud.google.com/"
-        },
-        {
-            "LinkName" : "Firebase Console",
-            "Link" : "https://console.firebase.google.com/"
+            "LinkName" : "Developer Circles Resources",
+            "Link" : "https://www.developercircleresources.com/"
         }
     ],
     "FooterEndSession":[

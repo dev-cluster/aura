@@ -8,7 +8,7 @@
           <!-- <v-divider></v-divider> -->
           <p class="google-font mt-3" style="font-size:110%">Our events are open to newbies, students, developers, managers, and organizations who are interested in upcoming and relevant technologies and tools enabling developers.</p>
           
-          <p class="google-font mb-0" style="font-size:130%">Social Media:</p>
+          <p class="google-font mb-0" style="font-size:130%">Follow us across Social Media:</p>
           <p class="google-font mt-0 ml-0" style="font-size:130%" >
             <span v-for="(item,i) in ChapterDetails.socialLinks" :key="i">
               <v-tooltip bottom>
@@ -20,7 +20,7 @@
             </span>
           </p>
             
-            <p class="google-font mb-0" style="font-size:120%">Questions? Please contact us at {{ChapterDetails.ChapterEmail}}</p>
+            <p class="google-font mb-0" style="font-size:120%">Questions? Please contact us at contact us at <a style="color:#1565C0;text-decoration: none;" :href="`mailto:${ChapterDetails.ChapterEmail}`">{{ChapterDetails.ChapterEmail}}</a></p>
         </v-flex>
         <v-flex xs12 md2 lg2 class="pa-2">
           <v-img

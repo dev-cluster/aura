@@ -5,7 +5,7 @@
                <p class="google-font" style="font-size:180%">What we do?</p>
                <p class="google-font" style="font-size:110%">Dev Cluster is a tech community for engineers and developers to learn and grow together.</p>
 
-               <p class="google-font" style="font-size:110%">About different Google technologies</p>
+               <!--<p class="google-font" style="font-size:110%">About different Google technologies</p>
 
                 <span v-for="(item,i) in whatWeDoData" :key="i">
                     <v-tooltip bottom>
@@ -21,7 +21,7 @@
                 
                 <br><br>
 
-                <v-btn :href="chapterDetails.GDGProgramWebsite" outline target="_blank" round color="cyan" style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;" flat  class="ml-0 google-font hidden-md-and-down" dark>Learn More</v-btn>
+                <v-btn :href="chapterDetails.GDGProgramWebsite" outline target="_blank" round color="cyan" style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;" flat  class="ml-0 google-font hidden-md-and-down" dark>Learn More</v-btn>-->
 
             </v-flex> 
             <v-flex xs12 md9 lg9 class="">
@@ -35,20 +35,20 @@
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">code</v-icon>
-                        <p class="google-font" style="font-size:130%">Codelabs</p>
+                        <p class="google-font" style="font-size:130%">Codelabs/Hackathons</p>
                         <p class="google-font" style="font-size:110%">Get hands-on experience and guidance from the community members</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">school</v-icon>
                         <p class="google-font" style="font-size:130%">Campus Roadshows</p>
-                        <p class="google-font" style="font-size:110%">Share knowledge in different Companies, colleges and universities</p>
+                        <p class="google-font" style="font-size:110%">With our campus connect, the latest from us reaches you in your classroom</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">airplay</v-icon>
                         <p class="google-font" style="font-size:130%">Live Viewing Parties</p>
-                        <p class="google-font" style="font-size:110%">Share knowledge in different Companies, colleges and universities</p>
+                        <p class="google-font" style="font-size:110%">Watch the latest from tech giants and discuss what this means for us</p>
                     </v-flex>
 
                 </v-layout>
