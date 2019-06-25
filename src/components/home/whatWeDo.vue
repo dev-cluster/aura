@@ -3,7 +3,7 @@
         <v-layout wrap align-center justify-center row fill-height >
            <v-flex xs12 md3 lg3 class="pa-2">
                <p class="google-font" style="font-size:180%">What we do?</p>
-               <p class="google-font" style="font-size:110%">Google Developer Groups (GDGs) are for developers who are interested in Google's developer technology.</p>
+               <p class="google-font" style="font-size:110%">Dev Cluster is a tech community for engineers and developers to learn and grow together.</p>
 
                <p class="google-font" style="font-size:110%">About different Google technologies</p>
 

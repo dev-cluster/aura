@@ -1,7 +1,8 @@
 {
-    "ChapterName":"Dev Cluster Goa",
+    "ChapterName":"Dev Cluster",
     "ChapterShortDescription":"An initiative by Goan tech enthusiasts to help build a strong tech community in the state.", 
     "ChapterLongDec":"Dev Cluster is an initiative by a group of Goan tech enthusiasts to help build a strong tech community and ensure that knowledge directly reaches the Goan public with ease.",
+    "ChapterHistory":"Dev Cluster is a seven-year old community with its roots in the GTUG/GDG programme. We have since been successful in engaging both student developers and professionals through our masterclasses, study jams, hackathons and meetups.",
     "ChapterMeetupLink":"",
     "ChapterEmail":"contact@devcluster.community",
     "website":"https://devcluster.community",
@@ -10,7 +11,7 @@
     "socialLinks":[
         {
             "name" : "Facebook",
-            "link" : "https://www.facebook.com/DevClusterGoa",
+            "link" : "https://www.facebook.com/devclustergoa",
             "icon" : "fab fa-facebook"
         },
         {
@@ -29,11 +30,14 @@
             "icon" : "fab fa-linkedin"
         },
         {
+            "name" : "Medium",
+            "link" : "https://www.medium.com/devclustergoa",
+            "icon" : "fab fa-medium"
+        },
+        {
             "name" : "YouTube",
             "link" : "https://www.youtube.com/channel/UCkhOhL-IzdTJS2Vd8tKf_5A",
             "icon" : "fab fa-youtube"
         }
-    ],
-    "wtmWebsite":"",
-    "aboutGDGProgram":""
+    ]
 }
