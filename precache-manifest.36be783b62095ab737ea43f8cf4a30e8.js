@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "ab66e07f109fe5d81731",
+    "revision": "64bb45840b28973ef9a2",
     "url": "/css/app.1f22959a.css"
   },
   {
-    "revision": "ab66e07f109fe5d81731",
-    "url": "/js/app.4b147da2.js"
+    "revision": "64bb45840b28973ef9a2",
+    "url": "/js/app.3270eb1a.js"
   },
   {
     "revision": "6aabb9e784aa544c4d4d",
@@ -68,6 +68,10 @@ self.__precacheManifest = [
     "url": "/img/tanmay.abc5401b.jpeg"
   },
   {
+    "revision": "b6a545054792b2bbdab59d83c4ca1747",
+    "url": "/img/dclogo.b6a54505.svg"
+  },
+  {
     "revision": "a35ca7cc5cc275045732b7ecc38408ce",
     "url": "/img/fsug.a35ca7cc.png"
   },
@@ -94,10 +98,6 @@ self.__precacheManifest = [
   {
     "revision": "d93247c15bcb2bd960f23909c7eb6cf4",
     "url": "/img/mrunal.d93247c1.jpeg"
-  },
-  {
-    "revision": "0229df0933f2c59de929cb6bd2bdfcc3",
-    "url": "/img/logo.0229df09.png"
   },
   {
     "revision": "08b489f770190fb896df026c9511b5e8",
@@ -204,12 +204,12 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-Thin.ad538a69.woff2"
   },
   {
-    "revision": "73f0a88bbca1bec19fb1303c689d04c6",
-    "url": "/fonts/Roboto-Regular.73f0a88b.woff2"
-  },
-  {
     "revision": "d26871e8149b5759f814fd3c7a4f784b",
     "url": "/fonts/Roboto-Light.d26871e8.woff2"
+  },
+  {
+    "revision": "73f0a88bbca1bec19fb1303c689d04c6",
+    "url": "/fonts/Roboto-Regular.73f0a88b.woff2"
   },
   {
     "revision": "90d1676003d9c28c04994c18bfd8b558",
@@ -218,6 +218,10 @@ self.__precacheManifest = [
   {
     "revision": "b52fac2bb93c5858f3f2675e4b52e1de",
     "url": "/fonts/Roboto-Bold.b52fac2b.woff2"
+  },
+  {
+    "revision": "59eb3601394dd87f30f82433fb39dd94",
+    "url": "/fonts/Roboto-Black.59eb3601.woff2"
   },
   {
     "revision": "5b4a33e176ff736a74f0ca2dd9e6b396",
@@ -238,10 +242,6 @@ self.__precacheManifest = [
   {
     "revision": "94008e69aaf05da75c0bbf8f8bb0db41",
     "url": "/fonts/Roboto-BoldItalic.94008e69.woff2"
-  },
-  {
-    "revision": "59eb3601394dd87f30f82433fb39dd94",
-    "url": "/fonts/Roboto-Black.59eb3601.woff2"
   },
   {
     "revision": "f75569f8a5fab0893fa712d8c0d9c3fe",
@@ -280,20 +280,20 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-LightItalic.13efe6cb.woff"
   },
   {
-    "revision": "f5902d5ef961717ed263902fc429e6ae",
-    "url": "/fonts/Roboto-RegularItalic.f5902d5e.woff"
-  },
-  {
     "revision": "83e114c316fcc3f23f524ec3e1c65984",
     "url": "/fonts/Roboto-MediumItalic.83e114c3.woff"
   },
   {
-    "revision": "cc2fadc3928f2f223418887111947b40",
-    "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
-  },
-  {
     "revision": "4fe0f73cc919ba2b7a3c36e4540d725c",
     "url": "/fonts/Roboto-BoldItalic.4fe0f73c.woff"
+  },
+  {
+    "revision": "f5902d5ef961717ed263902fc429e6ae",
+    "url": "/fonts/Roboto-RegularItalic.f5902d5e.woff"
+  },
+  {
+    "revision": "cc2fadc3928f2f223418887111947b40",
+    "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
   },
   {
     "revision": "c68519a04e2a07e822a7b268a32e0960",
@@ -324,7 +324,7 @@ self.__precacheManifest = [
     "url": "/img/prachi.de014b76.jpeg"
   },
   {
-    "revision": "aedcc1fb603dd397869e0595f0aa8ad7",
+    "revision": "2b515d95b3f3818481c75d949d5e38e7",
     "url": "/index.html"
   },
   {
