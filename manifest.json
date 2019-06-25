@@ -15,7 +15,7 @@
   ],
   "start_url": "./index.html",
   "display": "standalone",
-  "background_color": "#ffff",
+  "background_color": "#525252",
   "theme_color": "#0277bd",
   "description": "Dev Cluster is an initiative by a group of Goan tech enthusiasts to help build a strong tech community and ensure that knowledge directly reaches the Goan public with ease."
 }
