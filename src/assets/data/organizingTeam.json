@@ -2,25 +2,43 @@
     {
         "name":"Ahmad Shah",
         "designation":"Management",
-        "twitter":"#",
+        "twitter":"",
         "linkedin":"https://www.linkedin.com/in/ahmad-shah-71344b149/",
-        "github":"#",
+        "github":"",
         "profileImage":"ahmad.jpeg",
         "website":""
     },
     {
         "name":"Ashroya Dias",
         "designation":"Management",
-        "twitter":"#",
+        "twitter":"",
         "linkedin":"https://www.linkedin.com/in/ashroya-monica-dias-500559143/",
-        "github":"#",
+        "github":"",
         "profileImage":"ashroya.jpeg",
+        "website":""
+    },
+    {
+        "name":"Devansh Cholera",
+        "designation":"Management",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/devansh-cholera-a23513116/",
+        "github":"",
+        "profileImage":"",
+        "website":""
+    },
+    {
+        "name":"Jonathan Pereira",
+        "designation":"Mentor",
+        "twitter":"https://twitter.com/GoanIdle",
+        "linkedin":"https://www.linkedin.com/in/jonathanp1/",
+        "github":"",
+        "profileImage":"",
         "website":""
     },
     {
         "name":"Mahima Tendulkar",
         "designation":"Management",
-        "twitter":"#",
+        "twitter":"",
         "linkedin":"https://www.linkedin.com/in/mahima-tendulkar-694baa149/",
         "github":"https://github.com/mahimatendulkar",
         "profileImage":"mahima.jpeg",
@@ -29,9 +47,9 @@
     {
         "name":"Mrunal Thakur",
         "designation":"Management",
-        "twitter":"#",
+        "twitter":"",
         "linkedin":"https://www.linkedin.com/in/msthakur/",
-        "github":"#",
+        "github":"",
         "profileImage":"mrunal.jpeg",
         "website":""
     },
@@ -40,8 +58,17 @@
         "designation":"Management",
         "twitter":"https://twitter.com/PrachiMahambrey",
         "linkedin":"https://www.linkedin.com/in/prachimahambrey/",
-        "github":"#",
+        "github":"",
         "profileImage":"prachi.jpeg",
+        "website":""
+    },
+    {
+        "name":"Rahul Sharma",
+        "designation":"Management",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/rahul-sharma-3a622a14a/",
+        "github":"",
+        "profileImage":"",
         "website":""
     },
     {
@@ -75,17 +102,17 @@
         "name":"Twishi Saran",
         "designation":"Logistics",
         "twitter":"https://twitter.com/TwishiSaran",
-        "linkedin":"#",
-        "github":"#",
+        "linkedin":"",
+        "github":"",
         "profileImage":"",
         "website":""
     },
     {
         "name":"Daniel Fernandes",
         "designation":"Photography",
-        "twitter":"#",
-        "linkedin":"#",
-        "github":"#",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
         "profileImage":"",
         "website":""
     },
