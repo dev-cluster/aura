@@ -17,7 +17,17 @@
       </v-layout>
     </v-container>
 
+    <!-- Copied WhatWeDo section to build WhatWeOffer -->
+
     <v-container fluid style="background-color:#212121" >
+      <v-layout wrap align-center justify-center row fill-height>
+        <v-flex xs12 md10 class="">
+          <whatWeOffer />
+        </v-flex>
+      </v-layout>
+    </v-container>
+
+    <v-container fluid style="background-color:#303030" >
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
           <AboutGDGChapter />
@@ -25,15 +35,15 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid style="background-color:#303030">
+    <!-- <v-container fluid style="background-color:#212121">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
           <eventshowcase />
         </v-flex>
       </v-layout>
-    </v-container>
+    </v-container> -->
   
-    <v-container fluid class="py-5" style="background-color:#212121">
+    <!-- <v-container fluid class="py-5" style="background-color:#212121">
       <v-layout wrap align-start justify-start row fill-height>
         <v-flex xs12 md10 offset-md1 offset-lg1 >
           <p class="google-font mb-2" style="font-size:150%">Our Feature Event & Meetup</p>
@@ -42,7 +52,7 @@
           <featureEvent />
         </v-flex>
       </v-layout>
-    </v-container>
+    </v-container> -->
     
      <!-- <v-container fluid >
       <v-layout wrap align-center justify-center row fill-height>
@@ -52,7 +62,7 @@
       </v-layout>
     </v-container> -->
 
-    <v-container fluid style="background-color:#303030">
+    <v-container fluid style="background-color:#212121">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10>
           <partners />
@@ -70,6 +80,7 @@
 <script>
   import HomeStartScreen from '@/components/home/HomeStartScreen'
   import whatWeDo from '@/components/home/whatWeDo'
+  import whatWeOffer from '@/components/home/whatWeOffer'
   import AboutGDGChapter from '@/components/home/AboutGDGChapter'
   import eventshowcase from '@/components/home/eventshowcase'
   // import wtmInfo from '@/components/home/wtmInfo'
@@ -80,6 +91,7 @@
     components: {
       HomeStartScreen,
       whatWeDo,
+      whatWeOffer,
       AboutGDGChapter,
       eventshowcase,
       // wtmInfo,
