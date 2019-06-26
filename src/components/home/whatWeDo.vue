@@ -35,7 +35,7 @@
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">code</v-icon>
-                        <p class="google-font" style="font-size:130%">Codelabs/Hackathons</p>
+                        <p class="google-font" style="font-size:130%">Codelabs & Hackathons</p>
                         <p class="google-font" style="font-size:110%">Get hands-on experience and guidance from the community members</p>
                     </v-flex>
 

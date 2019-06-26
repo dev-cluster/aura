@@ -30,13 +30,13 @@
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">class</v-icon>
-                        <p class="google-font" style="font-size:130%">Access To Exclusive Resources</p>
-                        <p class="google-font" style="font-size:110%">Our brand partnerships, we have the resources to conduct extensive training programmes. Just let us know that you're interested!</p>
+                        <p class="google-font" style="font-size:130%">Access to Exclusive Resources</p>
+                        <p class="google-font" style="font-size:110%">Our brand partnerships give us the necessary resources to conduct extensive training programmes. Just let us know that you're interested!</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
                         <v-icon large style="font-size:300%">person</v-icon>
-                        <p class="google-font" style="font-size:130%">Support For Tech Problems</p>
+                        <p class="google-font" style="font-size:130%">Support for Tech Problems</p>
                         <p class="google-font" style="font-size:110%">With our facilitators well-versed with latest technologies, help's right around the corner!</p>
                     </v-flex>
 
