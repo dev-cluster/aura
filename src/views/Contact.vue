@@ -13,7 +13,7 @@
             <span v-for="(item,i) in ChapterDetails.socialLinks" :key="i">
               <v-tooltip bottom>
                   <v-btn flat icon :href="item.link" target="_blank" slot="activator">
-                    <v-icon>{{item.icon}}</v-icon>
+                    <v-icon color="white">{{item.icon}}</v-icon>
                   </v-btn>
                   <span>{{item.name}}</span>
               </v-tooltip>
@@ -24,9 +24,9 @@
         </v-flex>
         <v-flex xs12 md2 lg2 class="pa-2">
           <v-img
-              :src="require('@/assets/img/svg/contact2.svg')"
-              :lazy-src="require('@/assets/img/svg/contact2.svg')"
-              width="70%"
+              :src="require('@/assets/img/svg/workinglady.svg')"
+              :lazy-src="require('@/assets/img/svg/workinglady.svg')"
+              width="100%"
               style="float:right"
               >
               <v-layout

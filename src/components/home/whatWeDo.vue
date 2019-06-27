@@ -28,25 +28,25 @@
                 <v-layout row wrap>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
-                        <v-icon large style="font-size:300%">chat_bubble</v-icon>
-                        <p class="google-font" style="font-size:130%">Talks</p>
-                        <p class="google-font" style="font-size:110%">Get updated with the latest news and announcements</p>
+                        <v-icon color="white" large style="font-size:300%">chat_bubble</v-icon>
+                        <p class="google-font" style="font-size:130%">Meetups and Tech Talks</p>
+                        <p class="google-font" style="font-size:110%">Learn about the latest developments in the world of technology</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
-                        <v-icon large style="font-size:300%">code</v-icon>
+                        <v-icon color="white" large style="font-size:300%">code</v-icon>
                         <p class="google-font" style="font-size:130%">Codelabs & Hackathons</p>
                         <p class="google-font" style="font-size:110%">Get hands-on experience and guidance from the community members</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
-                        <v-icon large style="font-size:300%">school</v-icon>
+                        <v-icon color="white" large style="font-size:300%">school</v-icon>
                         <p class="google-font" style="font-size:130%">Campus Roadshows</p>
                         <p class="google-font" style="font-size:110%">With our campus connect, the latest from us reaches you in your classroom</p>
                     </v-flex>
 
                     <v-flex xs6 sm6 md3 lg3 class="text-xs-center pa-2">
-                        <v-icon large style="font-size:300%">airplay</v-icon>
+                        <v-icon color="white" large style="font-size:300%">airplay</v-icon>
                         <p class="google-font" style="font-size:130%">Live Viewing Parties</p>
                         <p class="google-font" style="font-size:110%">Watch the latest from tech giants and discuss what this means for us</p>
                     </v-flex>
