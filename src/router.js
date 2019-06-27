@@ -36,11 +36,11 @@ export default new Router({
       name: 'team',
       component: () => import('./views/Team.vue')
     },
-    {
-      path: '/events',
-      name: 'events',
-      component: () => import('./views/Events.vue')
-    },
+    // {
+    //   path: '/events',
+    //   name: 'events',
+    //   component: () => import('./views/Events.vue')
+    // },
     {
       path: '/contact',
       name: 'contact',
