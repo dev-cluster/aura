@@ -18,7 +18,7 @@
                 </v-img>
             </v-flex> 
             <v-flex xs12 sm7 md8 lg8 xl8 class="">
-                <p class="google-font mb-1" style="font-weight: 350;color: #616161;font-size:300%"><b>Make good things 
+                <p class="google-font mb-1" style="font-weight: 350;color: #eee;font-size:300%"><b>Make good things 
                     <span style="color: #1a73e8;">together</span>.</b>
                 </p>
                 <p class="google-font mt-0" style="font-size:180%">{{chapterDetails.ChapterName}}</p>

@@ -19,7 +19,7 @@
         <v-icon>dashboard</v-icon>
       </v-btn>
 
-      <v-btn
+      <!-- <v-btn
         color="#518FF5"
         flat
         value="events"
@@ -28,7 +28,7 @@
       >
         <span>Events</span>
         <v-icon>rounded_corner</v-icon>
-      </v-btn>
+      </v-btn> -->
 
       <v-btn
         color="#518FF5"
