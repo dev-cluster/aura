@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b7fe9fcaec3e19a568e1",
+    "revision": "51a4eb556f964552a13c",
     "url": "/css/app.1f22959a.css"
   },
   {
-    "revision": "b7fe9fcaec3e19a568e1",
-    "url": "/js/app.627b39ed.js"
+    "revision": "51a4eb556f964552a13c",
+    "url": "/js/app.975fca94.js"
   },
   {
     "revision": "1b7c7d3f2eb2eb73fb9f",
@@ -14,14 +14,6 @@ self.__precacheManifest = [
   {
     "revision": "1b7c7d3f2eb2eb73fb9f",
     "url": "/js/chunk-0c5f7550.0a48b4d4.js"
-  },
-  {
-    "revision": "c8a36909c8b9822a7378",
-    "url": "/css/chunk-4597dada.93a44a66.css"
-  },
-  {
-    "revision": "c8a36909c8b9822a7378",
-    "url": "/js/chunk-4597dada.cca14ee4.js"
   },
   {
     "revision": "072e27871f9d33f526f2",
@@ -328,7 +320,7 @@ self.__precacheManifest = [
     "url": "/img/prachi.de014b76.jpeg"
   },
   {
-    "revision": "6d62733b9e734025e3b77bbc0011678c",
+    "revision": "950885055e742d382b552c815e43ac55",
     "url": "/index.html"
   },
   {
