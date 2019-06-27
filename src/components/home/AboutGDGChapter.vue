@@ -8,11 +8,11 @@
                </p>
                <!--<v-btn :href="chapterDetails.ChapterMeetupLink" target="_blank" outline color="white" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;">Meetup Page</v-btn>
                &nbsp;-->
-               <v-btn :href="chapterDetails.socialLinks[0].link" target="_blank" outline color="white" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;">Facebook Page</v-btn>
+               <v-btn :href="chapterDetails.socialLinks[0].link" target="_blank" outline color="white" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;">Facebook</v-btn>
                 &nbsp;
                 <v-btn :href="chapterDetails.socialLinks[1].link" target="_blank" outline color="white" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;">Instagram</v-btn>
                 &nbsp;
-                <v-btn :href="chapterDetails.socialLinks[4].link" target="_blank" outline color="white" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;">Medium</v-btn>
+                <!--<v-btn :href="chapterDetails.socialLinks[4].link" target="_blank" outline color="white" class="ma-0 google-font" style="border-radius:5px;text-transform: capitalize;">Medium</v-btn>-->
                 <br><br>
                <router-link to="/about" class="google-font" style="text-decoration:none;color:white">See More about {{chapterDetails.ChapterName}}</router-link>
             </v-flex> 
