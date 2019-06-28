@@ -220,24 +220,24 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-LightItalic.e8eaae90.woff2"
   },
   {
+    "revision": "4357beb823a5f8d65c260f045d9e019a",
+    "url": "/fonts/Roboto-RegularItalic.4357beb8.woff2"
+  },
+  {
     "revision": "13ec0eb5bdb821ff4930237d7c9f943f",
     "url": "/fonts/Roboto-MediumItalic.13ec0eb5.woff2"
   },
   {
-    "revision": "b52fac2bb93c5858f3f2675e4b52e1de",
-    "url": "/fonts/Roboto-Bold.b52fac2b.woff2"
+    "revision": "94008e69aaf05da75c0bbf8f8bb0db41",
+    "url": "/fonts/Roboto-BoldItalic.94008e69.woff2"
   },
   {
     "revision": "f75569f8a5fab0893fa712d8c0d9c3fe",
     "url": "/fonts/Roboto-BlackItalic.f75569f8.woff2"
   },
   {
-    "revision": "4357beb823a5f8d65c260f045d9e019a",
-    "url": "/fonts/Roboto-RegularItalic.4357beb8.woff2"
-  },
-  {
-    "revision": "94008e69aaf05da75c0bbf8f8bb0db41",
-    "url": "/fonts/Roboto-BoldItalic.94008e69.woff2"
+    "revision": "b52fac2bb93c5858f3f2675e4b52e1de",
+    "url": "/fonts/Roboto-Bold.b52fac2b.woff2"
   },
   {
     "revision": "d3b47375afd904983d9be8d6e239a949",
@@ -256,6 +256,10 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-Medium.1d659482.woff"
   },
   {
+    "revision": "50d75e48e0a3ddab1dd15d6bfb9d3700",
+    "url": "/fonts/Roboto-Bold.50d75e48.woff"
+  },
+  {
     "revision": "313a65630d341645c13e4f2a0364381d",
     "url": "/fonts/Roboto-Black.313a6563.woff"
   },
@@ -272,16 +276,12 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-RegularItalic.f5902d5e.woff"
   },
   {
-    "revision": "50d75e48e0a3ddab1dd15d6bfb9d3700",
-    "url": "/fonts/Roboto-Bold.50d75e48.woff"
+    "revision": "83e114c316fcc3f23f524ec3e1c65984",
+    "url": "/fonts/Roboto-MediumItalic.83e114c3.woff"
   },
   {
     "revision": "4fe0f73cc919ba2b7a3c36e4540d725c",
     "url": "/fonts/Roboto-BoldItalic.4fe0f73c.woff"
-  },
-  {
-    "revision": "83e114c316fcc3f23f524ec3e1c65984",
-    "url": "/fonts/Roboto-MediumItalic.83e114c3.woff"
   },
   {
     "revision": "cc2fadc3928f2f223418887111947b40",
@@ -340,11 +340,11 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "c043f1a59b99e7d2be550ba78320ed0c",
-    "url": "/img/pwa/android-chrome-192x192dark.png"
+    "revision": "e6eff0f35709bff00cd319e3e92a54ee",
+    "url": "/img/pwa/android-chrome-192x192circle.png"
   },
   {
-    "revision": "7ffe506e6759bf344fe3601b26b9d7a2",
-    "url": "/img/pwa/android-chrome-512x512dark.png"
+    "revision": "5c4b528c8b276a0469dfb36bb08c9b51",
+    "url": "/img/pwa/android-chrome-512x512circle.png"
   }
 ];
