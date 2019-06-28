@@ -4,17 +4,17 @@
         "designation":"Community Manager",
         "twitter":"https://twitter.com/Ser_Tanmay",
         "linkedin":"https://www.linkedin.com/in/tanmay-pereira-naik-6a9153118/",
-        "github":"#",
+        "email":"mailto:tanmay@devcluster.community",
         "medium":"https://medium.com/@sertanmay",
         "profileImage":"tanmay.jpeg",
-        "website":"https://medium.com/@sertanmay"
+        "website":""
     },
     {
         "name":"Shalakha Kulkarni",
         "designation":"Associate Community Manager",
-        "twitter":"#",
+        "twitter":"",
         "linkedin":"https://www.linkedin.com/in/shalakha-kulkarni-810576170/",
-        "github":"#",
+        "email":"mailto:shalakha@devcluster.community",
         "profileImage":"shalakha.jpeg",
         "website":""
     },
@@ -23,7 +23,7 @@
         "designation":"Associate Community Manager",
         "twitter":"https://twitter.com/iamvardhana",
         "linkedin":"https://www.linkedin.com/in/vardhana-navelker/",
-        "github":"#",
+        "email":"mailto:vardhana@devcluster.community",
         "profileImage":"vardhana.jpeg",
         "website":""
     }
