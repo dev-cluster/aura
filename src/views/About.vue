@@ -42,7 +42,7 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid class="lighten-5 py-2" style="background-color:#424242">
+    <v-container fluid class="lighten-5 py-2 pt-0" style="background-color:#303030">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
           <TemplatePartner/>
