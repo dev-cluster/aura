@@ -42,6 +42,14 @@
       </v-layout>
     </v-container>
 
+    <v-container fluid class="lighten-5 py-2" style="background-color:#424242">
+      <v-layout wrap align-center justify-center row fill-height>
+        <v-flex xs12 md10 class="">
+          <TemplatePartner/>
+        </v-flex>
+      </v-layout>
+    </v-container>
+
   </v-content>
   
 </template>
@@ -52,12 +60,14 @@ import aboutGDGChapter from '@/components/about/aboutGDGChapter'
 import contactInfo from '@/components/about/contactInfo'
 import coc from '@/components/about/coc'
 import AntiHarassmentPolicy from '@/components/about/AntiHarassmentPolicy'
+import TemplatePartner from '@/components/about/TemplatePartner'
   export default {
     components: {
       aboutGDGChapter,
       contactInfo,
       coc,
-      AntiHarassmentPolicy
+      AntiHarassmentPolicy,
+      TemplatePartner
     },
     data() {
       return {
