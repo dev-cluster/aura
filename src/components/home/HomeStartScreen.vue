@@ -29,7 +29,7 @@
                     </span>
                 </p>
 
-                <v-btn :href="`mailto:${chapterDetails.ChapterEmail}`" target="_blank" class="ma-0 google-font elevation-1" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Join Us Today</v-btn>
+                <v-btn href="https://forms.gle/9brGWjaiD8LADsW77" target="_blank" class="ma-0 google-font elevation-1" color="#1a73e8" style="text-transform: capitalize;border-radius:5px;color:white">Join Us Today</v-btn>
                 &nbsp;
 
                 <!--<v-btn :href="chapterDetails.GDGProgramWebsite" target="_blank" round color="cyan" style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;" outline  class="ml-0" dark>Learn More</v-btn>--->
