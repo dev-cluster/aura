@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a2fd2c3fb8328e3fbdde",
+    "revision": "519ad614c62d708d7ee2",
     "url": "/css/app.1f22959a.css"
   },
   {
-    "revision": "a2fd2c3fb8328e3fbdde",
-    "url": "/js/app.3386a133.js"
+    "revision": "519ad614c62d708d7ee2",
+    "url": "/js/app.a3315861.js"
   },
   {
     "revision": "1b7c7d3f2eb2eb73fb9f",
@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/js/chunk-0c5f7550.0a48b4d4.js"
   },
   {
-    "revision": "072e27871f9d33f526f2",
+    "revision": "fb98d68f49393ccb7954",
     "url": "/css/chunk-a7a0abc6.0c1deb66.css"
   },
   {
-    "revision": "072e27871f9d33f526f2",
-    "url": "/js/chunk-a7a0abc6.ae7fa0b5.js"
+    "revision": "fb98d68f49393ccb7954",
+    "url": "/js/chunk-a7a0abc6.acf4860d.js"
   },
   {
     "revision": "a7d62201511ea77b879b",
@@ -208,12 +208,12 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-Medium.90d16760.woff2"
   },
   {
-    "revision": "59eb3601394dd87f30f82433fb39dd94",
-    "url": "/fonts/Roboto-Black.59eb3601.woff2"
-  },
-  {
     "revision": "b52fac2bb93c5858f3f2675e4b52e1de",
     "url": "/fonts/Roboto-Bold.b52fac2b.woff2"
+  },
+  {
+    "revision": "59eb3601394dd87f30f82433fb39dd94",
+    "url": "/fonts/Roboto-Black.59eb3601.woff2"
   },
   {
     "revision": "5b4a33e176ff736a74f0ca2dd9e6b396",
@@ -280,12 +280,12 @@ self.__precacheManifest = [
     "url": "/fonts/Roboto-MediumItalic.83e114c3.woff"
   },
   {
-    "revision": "4fe0f73cc919ba2b7a3c36e4540d725c",
-    "url": "/fonts/Roboto-BoldItalic.4fe0f73c.woff"
-  },
-  {
     "revision": "cc2fadc3928f2f223418887111947b40",
     "url": "/fonts/Roboto-BlackItalic.cc2fadc3.woff"
+  },
+  {
+    "revision": "4fe0f73cc919ba2b7a3c36e4540d725c",
+    "url": "/fonts/Roboto-BoldItalic.4fe0f73c.woff"
   },
   {
     "revision": "dbc96d1a038efb529687b53991b977ef",
@@ -320,7 +320,7 @@ self.__precacheManifest = [
     "url": "/img/prachi.de014b76.jpeg"
   },
   {
-    "revision": "a0268506ce0600c04e16c7cf410bf1c4",
+    "revision": "acc0f5f2b3cd281c2725e86b020adb95",
     "url": "/index.html"
   },
   {
