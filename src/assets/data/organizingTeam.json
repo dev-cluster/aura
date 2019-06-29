@@ -18,6 +18,15 @@
         "website":""
     },
     {
+        "name":"Daniel Fernandes",
+        "designation":"Photography",
+        "twitter":"",
+        "linkedin":"",
+        "github":"",
+        "profileImage":"daniel.jpg",
+        "website":"https://www.instagram.com/lone.rider_/"
+    },
+    {
         "name":"Devansh Cholera",
         "designation":"Management",
         "twitter":"",
@@ -58,7 +67,7 @@
         "designation":"Management",
         "twitter":"https://twitter.com/PrachiMahambrey",
         "linkedin":"https://www.linkedin.com/in/prachimahambrey/",
-        "github":"",
+        "github":"https://github.com/PrachiMahambrey",
         "profileImage":"prachi.jpeg",
         "website":""
     },
@@ -105,15 +114,6 @@
         "linkedin":"https://www.linkedin.com/in/twishi-saran-3a9a70189/",
         "github":"",
         "profileImage":"twishi.jpeg",
-        "website":""
-    },
-    {
-        "name":"Daniel Fernandes",
-        "designation":"Photography",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"",
         "website":""
     },
     {

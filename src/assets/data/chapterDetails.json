@@ -25,6 +25,11 @@
             "icon" : "fab fa-twitter"
         },
         {
+            "name" : "Discord",
+            "link" : "https://discord.gg/7JuEpsS",
+            "icon" : "fab fa-discord"
+        },
+        {
             "name" : "Linkedin",
             "link" : "https://www.linkedin.com/company/devclustergoa/",
             "icon" : "fab fa-linkedin"
