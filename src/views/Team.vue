@@ -5,6 +5,7 @@
       <v-layout wrap align-center justify-center row fill-height class="my-0">
         <v-flex xs12 md10 class="my-0">
             <p class="google-font mb-0" style="font-size:200%;color:#0277BD">Our band of big thinkers and go-getters</p>
+            <br/>
             <p class="google-font mt-0 mb-0" style="font-size:110%">Here at Dev Cluster, we aren't just a team. We are a family. A family that brings people like you to learn and grow together.</p>
 
             <p class="google-font mt-3 mb-0" style="font-size:110%">Our goal is to organize space to connect the best industry experts with Indian audience to boost development of IT. And our Core Team is: </p>
@@ -28,9 +29,6 @@
         </v-flex>
       </v-layout>
     </v-container>
-
-   
-
 
   </v-content>
   
