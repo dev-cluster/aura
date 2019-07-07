@@ -26,7 +26,7 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid class="lighten-5 py-2 pt-0" style="background-color:#303030">
+    <!--<v-container fluid class="lighten-5 py-2 pt-0" style="background-color:#303030">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
           <coc/>
@@ -40,7 +40,7 @@
           <AntiHarassmentPolicy/>
         </v-flex>
       </v-layout>
-    </v-container>
+    </v-container>-->
 
     <v-container fluid class="lighten-5 py-2 pt-0" style="background-color:#303030">
       <v-layout wrap align-center justify-center row fill-height>
@@ -58,15 +58,15 @@
 import ChapterDetails from '@/assets/data/chapterDetails.json'
 import aboutGDGChapter from '@/components/about/aboutGDGChapter'
 import contactInfo from '@/components/about/contactInfo'
-import coc from '@/components/about/coc'
-import AntiHarassmentPolicy from '@/components/about/AntiHarassmentPolicy'
+//import coc from '@/components/about/coc'
+//import AntiHarassmentPolicy from '@/components/about/AntiHarassmentPolicy'
 import TemplatePartner from '@/components/about/TemplatePartner'
   export default {
     components: {
       aboutGDGChapter,
       contactInfo,
-      coc,
-      AntiHarassmentPolicy,
+      //coc,
+      //AntiHarassmentPolicy,
       TemplatePartner
     },
     data() {

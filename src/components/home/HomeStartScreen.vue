@@ -33,7 +33,7 @@
                 &nbsp;
 
                 <!--<v-btn :href="chapterDetails.GDGProgramWebsite" target="_blank" round color="cyan" style="text-transform: capitalize;border-radius:5px;text-transform: capitalize;" outline  class="ml-0" dark>Learn More</v-btn>--->
-
+            
             </v-flex>
         </v-layout>
 
