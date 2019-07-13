@@ -3,7 +3,7 @@
 
     <v-container fluid class="" style="background-color:#212121">
       <v-layout wrap align-center justify-center row fill-height class="">
-        <v-flex xs12 md10 class="my-3">
+        <v-flex xs12 md10 class="" my-5>
           <HomeStartScreen />
         </v-flex>
       </v-layout>
@@ -11,7 +11,7 @@
 
     <v-container fluid style="background-color:#303030" >
       <v-layout wrap align-center justify-center row fill-height>
-        <v-flex xs12 md10 class="">
+        <v-flex xs12 md10 class="" my-4>
           <whatWeDo />
         </v-flex>
       </v-layout>
@@ -21,7 +21,7 @@
 
     <v-container fluid style="background-color:#212121" >
       <v-layout wrap align-center justify-center row fill-height>
-        <v-flex xs12 md10 class="">
+        <v-flex xs12 md10 class="" my-4>
           <whatWeOffer />
         </v-flex>
       </v-layout>
@@ -29,7 +29,7 @@
 
     <v-container fluid style="background-color:#303030" >
       <v-layout wrap align-center justify-center row fill-height>
-        <v-flex xs12 md10 class="">
+        <v-flex xs12 md10 class="" my-3>
           <AboutGDGChapter />
         </v-flex>
       </v-layout>
@@ -64,7 +64,7 @@
 
     <v-container fluid style="background-color:#212121">
       <v-layout wrap align-center justify-center row fill-height>
-        <v-flex xs12 md10>
+        <v-flex xs12 md10 my-3>
           <partners />
         </v-flex>
       </v-layout>

@@ -5,12 +5,12 @@
     temporary
   >
     
-    <v-flex xs12 class="pl-3 pt-5 lighten-5 pb-2">
+    <v-flex xs12 class="mx-0 px-0 pt-5 lighten-5 pb-2">
       <v-img
             :src="require('@/assets/img/svg/dclogo.svg')"
             :lazy-src="require('@/assets/img/svg/dclogo.svg')"
-            width="40vh"
-            ma-0
+            width="100%"
+            fluid
             >
             <v-layout
                 slot="placeholder"
@@ -22,7 +22,7 @@
                 <v-progress-circular indeterminate color="grey lighten-5"></v-progress-circular>
             </v-layout>
       </v-img>
-      <p class="google-font mt-2" style="font-size:130%">{{ ChapterDetails.ChapterName }}</p>
+      <p class="google-font mt-2 ml-3" style="font-size:130%">{{ ChapterDetails.ChapterName }}</p>
       
     </v-flex>
     <v-list>
