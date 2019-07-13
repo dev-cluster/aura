@@ -9,7 +9,7 @@
     <v-toolbar-side-icon
       class="hidden-md-and-up"
       @click="toggleDrawer"
-
+      dark
     />
 
     <v-toolbar-title class="ml-0 pl-1 mr-1">

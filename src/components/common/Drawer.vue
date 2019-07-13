@@ -5,11 +5,12 @@
     temporary
   >
     
-    <v-flex xs12 class="pl-3 pt-5  lighten-5 pb-2">
+    <v-flex xs12 class="pl-3 pt-5 lighten-5 pb-2">
       <v-img
             :src="require('@/assets/img/svg/dclogo.svg')"
             :lazy-src="require('@/assets/img/svg/dclogo.svg')"
             width="40vh"
+            ma-0
             >
             <v-layout
                 slot="placeholder"
