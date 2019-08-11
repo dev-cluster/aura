@@ -2,6 +2,7 @@
     {
         "name":"Ahmad Shah",
         "designation":"Management",
+        "organisation":"Chowgule",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/in/ahmad-shah-71344b149/",
         "github":"",
@@ -11,6 +12,7 @@
     {
         "name":"Ashroya Dias",
         "designation":"Management",
+        "organisation":"GEC",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/in/ashroya-monica-dias-500559143/",
         "github":"",
@@ -20,6 +22,7 @@
     {
         "name":"Daniel Fernandes",
         "designation":"Photography",
+        "organisation":"PCCE",
         "twitter":"",
         "linkedin":"",
         "github":"",
@@ -27,17 +30,19 @@
         "website":"https://www.instagram.com/lone.rider_/"
     },
     {
-        "name":"Devansh Cholera",
-        "designation":"Management",
+        "name":"Ila Dhond",
+        "designation":"Content",
+        "organisation":"RIT",
         "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/devansh-cholera-a23513116/",
+        "linkedin":"#",
         "github":"",
-        "profileImage":"devansh.jpg",
+        "profileImage":"",
         "website":""
     },
     {
         "name":"Jonathan Pereira",
         "designation":"Mentor",
+        "organisation":"Postman",
         "twitter":"https://twitter.com/GoanIdle",
         "linkedin":"https://www.linkedin.com/in/jonathanp1/",
         "github":"",
@@ -47,6 +52,7 @@
     {
         "name":"Mahima Tendulkar",
         "designation":"Management",
+        "organisation":"NITG",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/in/mahima-tendulkar-694baa149/",
         "github":"https://github.com/mahimatendulkar",
@@ -56,6 +62,7 @@
     {
         "name":"Neil Botelho",
         "designation":"Content",
+        "organisation":"GEC",
         "twitter":"https://twitter.com/NeilJBotelho",
         "linkedin":"https://www.linkedin.com/in/neilbotelho/",
         "github":"https://github.com/neilbotelho",
@@ -65,6 +72,7 @@
     {
         "name":"Prachi Mahambrey",
         "designation":"Management",
+        "organisation":"AITD",
         "twitter":"https://twitter.com/PrachiMahambrey",
         "linkedin":"https://www.linkedin.com/in/prachimahambrey/",
         "github":"https://github.com/PrachiMahambrey",
@@ -74,6 +82,7 @@
     {
         "name":"Rahul Sharma",
         "designation":"Management",
+        "organisation":"DBCE",
         "twitter":"",
         "linkedin":"https://www.linkedin.com/in/rahul-sharma-3a622a14a/",
         "github":"",
@@ -83,6 +92,7 @@
     {
         "name":"Rudraksh Kankekar",
         "designation":"Graphic Design",
+        "organisation":"GEC",
         "twitter":"https://twitter.com/rude_drax",
         "linkedin":"https://www.linkedin.com/in/rudraksh-kanekar-63a403184/",
         "github":"https://github.com/RudrakshK",
@@ -92,6 +102,7 @@
     {
         "name":"Shawn Pereira",
         "designation":"Management",
+        "organisation":"GEC",
         "twitter":"https://twitter.com/Incept_shawn",
         "linkedin":"https://www.linkedin.com/in/shawn-pereira/",
         "github":"https://github.com/recurshawn",
@@ -101,6 +112,7 @@
     {
         "name":"Shrey Keny",
         "designation":"Development",
+        "organisation":"PCCE",
         "twitter":"https://twitter.com/ShreyKeny",
         "linkedin":"https://www.linkedin.com/in/shreykeny/",
         "github":"https://github.com/shreykeny",
@@ -110,6 +122,7 @@
     {
         "name":"Twishi Saran",
         "designation":"Logistics",
+        "organisation":"GEC",
         "twitter":"https://twitter.com/TwishiSaran",
         "linkedin":"https://www.linkedin.com/in/twishi-saran-3a9a70189/",
         "github":"",
@@ -119,7 +132,8 @@
     {
         "name":"Vipul Chodankar",
         "designation":"Development",
-        "twitter":"https://twitter.com/",
+        "organisation":"GEC",
+        "twitter":"https://twitter.com/vipul_chodankar",
         "linkedin":"https://www.linkedin.com/in/vipulchodankar/",
         "github":"https://github.com/vipulchodankar/",
         "profileImage":"vipul.jpeg",

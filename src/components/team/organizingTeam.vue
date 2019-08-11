@@ -16,12 +16,14 @@
                         
                     >
                         <v-list-tile-avatar>
-                            <img :src="getImgUrl(item.profileImage)">
+                            <img :src="getImgUrl(item.profileImage)" >
                         </v-list-tile-avatar>
 
                         <v-list-tile-content>
                             <v-list-tile-title class="google-font" v-html="item.name"></v-list-tile-title>
                             <v-list-tile-sub-title><span style="color:#aaaaaa" class="google-font">{{item.designation}}</span></v-list-tile-sub-title>
+                            <v-list-tile-sub-title><span style="color:#bbb" class="mt-1 google-font font-weight-bold">{{item.organisation}}</span></v-list-tile-sub-title>
+                            
                             <v-list-tile-sub-title>
                                 
                                 <v-btn class="mt-0 mx-0" icon v-if="(item.twitter).length>0" :href="item.twitter" target="_blank">
