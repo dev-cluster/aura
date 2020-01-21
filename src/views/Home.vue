@@ -27,7 +27,15 @@
       </v-layout>
     </v-container>
 
-    <v-container fluid style="background-color:#303030" >
+        <v-container fluid style="background-color:#303030" >
+      <v-layout wrap align-center justify-center row fill-height>
+        <v-flex xs12 md10 class="" my-3>
+          <AboutPyGoa />
+        </v-flex>
+      </v-layout>
+    </v-container>
+
+    <v-container fluid style="background-color:#212121" >
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="" my-3>
           <AboutGDGChapter />
@@ -35,7 +43,7 @@
       </v-layout>
     </v-container>
 
-    <!-- <v-container fluid style="background-color:#212121">
+    <!-- <v-container fluid style="background-color:#303030">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 class="">
           <eventshowcase />
@@ -62,7 +70,7 @@
       </v-layout>
     </v-container> -->
 
-    <v-container fluid style="background-color:#212121">
+    <v-container fluid style="background-color:#303030">
       <v-layout wrap align-center justify-center row fill-height>
         <v-flex xs12 md10 my-3>
           <partners />
@@ -81,6 +89,7 @@
   import HomeStartScreen from '@/components/home/HomeStartScreen'
   import whatWeDo from '@/components/home/whatWeDo'
   import whatWeOffer from '@/components/home/whatWeOffer'
+  import AboutPyGoa from '@/components/home/AboutPyGoa'
   import AboutGDGChapter from '@/components/home/AboutGDGChapter'
   import eventshowcase from '@/components/home/eventshowcase'
   // import wtmInfo from '@/components/home/wtmInfo'
@@ -92,6 +101,7 @@
       HomeStartScreen,
       whatWeDo,
       whatWeOffer,
+      AboutPyGoa,
       AboutGDGChapter,
       eventshowcase,
       // wtmInfo,
