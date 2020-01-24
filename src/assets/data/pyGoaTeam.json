@@ -1,21 +1,23 @@
 [
-    {
-        "name":"Pytha Gaurang",
-        "designation":"PyGoa Lead",
-        "twitter":"https://twitter.com/Ser_Tanmay",
-        "linkedin":"https://www.linkedin.com/in/tanmaypn",
-        "email":"mailto:tanmay@devcluster.community",
-        "medium":"https://medium.com/@sertanmay",
-        "profileImage":"tanmay.jpeg",
-        "website":""
-    },
-    {
-        "name":"Python Suniti",
-        "designation":"PyGoa Lead",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/shalakha-kulkarni-810576170/",
-        "email":"mailto:shalakha@devcluster.community",
-        "profileImage":"shalakha.jpeg",
-        "website":""
-    }
+  {
+    "name": "Gaurang Govekar",
+    "designation": "PyGoa Lead",
+    "twitter": "https://twitter.com/pythagaurang",
+    "linkedin": "https://www.linkedin.com/in/gaurang-govekar/",
+    "email": "",
+    "medium": "",
+    "profileImage": "gaurang.jpg",
+    "website": "",
+    "github": "https://github.com/pythagaurang"
+  },
+  {
+    "name": "Suniti Gaonkar",
+    "designation": "PyGoa Lead",
+    "twitter": "https://twitter.com/GaonkerSuniti",
+    "linkedin": "https://www.linkedin.com/in/suniti-gaonker-1a2a59184",
+    "email": "",
+    "profileImage": "suniti.jpg",
+    "website": "",
+    "github": "https://github.com/Suniti13"
+  }
 ]

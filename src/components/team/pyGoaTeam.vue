@@ -42,6 +42,10 @@
                     <v-btn class="mt-0 mx-0" icon v-if="(item.website).length>0" :href="item.website" target="_blank">
                         <v-icon style="color:#fff">link</v-icon>
                     </v-btn>
+
+                  <v-btn class="mt-0 mx-0" icon v-if="(item.github).length>0" :href="item.github" target="_blank">
+                                    <v-icon small style="color:#fff">fab fa-github</v-icon>
+                                </v-btn>
                 </div>
             </v-flex>
         </v-layout>
