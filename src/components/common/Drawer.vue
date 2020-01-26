@@ -41,8 +41,22 @@
         <v-list-tile-content>
           <v-list-tile-title v-text="link.text" />
         </v-list-tile-content>
-        
       </v-list-tile>
+
+      <!-- Blog Button to redirect to external URL -->
+      <v-list-tile
+        href="https://www.medium.com/devclustergoa"
+        class="google-font"
+      >
+        <v-list-tile-action>
+          <v-icon>fab fa-medium</v-icon>
+        </v-list-tile-action>
+
+        <v-list-tile-content>
+           Blog
+        </v-list-tile-content>
+      </v-list-tile>
+
     </v-list>
   </v-navigation-drawer>
 </template>

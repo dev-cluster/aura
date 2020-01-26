@@ -27,6 +27,17 @@
         @click="onClick($event, link)"
       >
         {{ link.text }}
+
+     <!-- Blog Button to redirect to external URL -->
+     </v-btn>
+        <v-btn
+        href="https://www.medium.com/devclustergoa"
+        color="white"
+        class="ml-0 google-font hidden-sm-and-down"
+        style="text-transform: capitalize;" 
+        flat
+      >
+        Blog
     </v-btn>
 
   
