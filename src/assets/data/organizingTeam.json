@@ -10,13 +10,13 @@
         "website":""
     },
     {
-        "name":"Ashroya Dias",
+        "name":"Ashwin Naik",
         "designation":"Management",
-        "organisation":"OneShield",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/ashroya-monica-dias-500559143/",
-        "github":"",
-        "profileImage":"ashroya.jpeg",
+        "organisation":"NITG",
+        "twitter":"https://twitter.com/AHolmes1208",
+        "linkedin":"https://www.linkedin.com/in/aholmes1208",
+        "github":"https://github.com/aholmes2534",
+        "profileImage":"ashwin.jpeg",
         "website":""
     },
     {
@@ -50,16 +50,6 @@
         "website":""
     },
     {
-        "name":"Mahima Tendulkar",
-        "designation":"Management",
-        "organisation":"NITG",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/mahima-tendulkar-694baa149/",
-        "github":"https://github.com/mahimatendulkar",
-        "profileImage":"mahima.jpeg",
-        "website":""
-    },
-    {
         "name":"Neil Botelho",
         "designation":"Content",
         "organisation":"GEC",
@@ -80,17 +70,7 @@
         "website":""
     },
     {
-        "name":"Rahul Sharma",
-        "designation":"Management",
-        "organisation":"DBCE",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/rahul-sharma-3a622a14a/",
-        "github":"",
-        "profileImage":"rahul.jpg",
-        "website":""
-    },
-    {
-        "name":"Rudraksh Kankekar",
+        "name":"Rudraksh Kanekar",
         "designation":"Graphic Design",
         "organisation":"GEC",
         "twitter":"https://twitter.com/rude_drax",
@@ -101,7 +81,7 @@
     },
     {
         "name":"Shawn Pereira",
-        "designation":"React Community Lead",
+        "designation":"Management",
         "organisation":"GEC",
         "twitter":"https://twitter.com/Incept_shawn",
         "linkedin":"https://www.linkedin.com/in/shawn-pereira/",
@@ -110,8 +90,18 @@
         "website":""
     },
     {
+        "name":"Sheena Mashelkar",
+        "designation":"Management",
+        "organisation":"DBCE",
+        "twitter":"",
+        "linkedin":"https://www.linkedin.com/in/sheena-mashelkar-040545168",
+        "github":"",
+        "profileImage":"sheena.jpeg",
+        "website":""
+    },
+    {
         "name":"Shrey Keny",
-        "designation":"React Community Lead",
+        "designation":"Development",
         "organisation":"PCCE",
         "twitter":"https://twitter.com/ShreyKeny",
         "linkedin":"https://www.linkedin.com/in/shreykeny/",
@@ -131,12 +121,12 @@
     },
     {
         "name":"Vipul Chodankar",
-        "designation":"React Community Lead",
+        "designation":"Development",
         "organisation":"GEC",
         "twitter":"https://twitter.com/vipul_chodankar",
         "linkedin":"https://www.linkedin.com/in/vipulchodankar/",
         "github":"https://github.com/vipulchodankar/",
         "profileImage":"vipul.jpeg",
-        "website":""
+        "website":"https://vipul-chodankar.web.app/"
     }
 ]
