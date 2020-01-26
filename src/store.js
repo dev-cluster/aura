@@ -12,7 +12,7 @@ export default new Vuex.Store({
       { text: "Team", to: "/team", icon: "group" },
       { text: "About", to: "/about", icon: "toc" },
       { text: "Contact", to: "/contact", icon: "person" },
-      { text: "PyGoa", to: "/pygoa", icon: "person" }
+      { text: "PyGoa", to: "/pygoa", icon: "fab fa-python" },
     ]
   },
   getters: {
