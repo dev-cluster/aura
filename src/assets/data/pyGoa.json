@@ -7,7 +7,10 @@
   "ChapterEmail": "contact@devcluster.community",
   "website": "https://devcluster.community/pygoa",
   "GDGProgramWebsite": "https://devcluster.community",
-  "ChapterHashTags": ["DevCluster", "DevClusterGoa"],
+  "ChapterHashTags": [
+    "DevCluster",
+    "DevClusterGoa"
+  ],
   "socialLinks": [
     {
       "name": "Facebook",
@@ -43,12 +46,11 @@
       "name": "YouTube",
       "link": "https://www.youtube.com/channel/UCkhOhL-IzdTJS2Vd8tKf_5A",
       "icon": "fab fa-youtube"
-    }, 
+    },
     {
       "name": "PyGoa",
       "link": "/pygoa",
       "icon": "fab fa-python"
     }
-
   ]
 }
