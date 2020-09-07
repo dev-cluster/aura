@@ -1,132 +1,92 @@
 [
-    {
-        "name":"Ahmad Shah",
-        "designation":"Management",
-        "organisation":"Chowgule",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/ahmad-shah-71344b149/",
-        "github":"",
-        "profileImage":"ahmad.jpeg",
-        "website":""
-    },
-    {
-        "name":"Ashwin Naik",
-        "designation":"Management",
-        "organisation":"NITG",
-        "twitter":"https://twitter.com/AHolmes1208",
-        "linkedin":"https://www.linkedin.com/in/aholmes1208",
-        "github":"https://github.com/aholmes2534",
-        "profileImage":"ashwin.jpeg",
-        "website":""
-    },
-    {
-        "name":"Daniel Fernandes",
-        "designation":"Photography",
-        "organisation":"PCCE",
-        "twitter":"",
-        "linkedin":"",
-        "github":"",
-        "profileImage":"daniel.jpg",
-        "website":"https://www.instagram.com/lone.rider_/"
-    },
-    {
-        "name":"Ila Dhond",
-        "designation":"Content",
-        "organisation":"RIT",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/ila-dhond-247502169",
-        "github":"",
-        "profileImage":"ila.jpeg",
-        "website":""
-    },
-    {
-        "name":"Jonathan Pereira",
-        "designation":"Mentor",
-        "organisation":"Postman",
-        "twitter":"https://twitter.com/GoanIdle",
-        "linkedin":"https://www.linkedin.com/in/jonathanp1/",
-        "github":"",
-        "profileImage":"jonathan.jpg",
-        "website":""
-    },
-    {
-        "name":"Neil Botelho",
-        "designation":"Content",
-        "organisation":"GEC",
-        "twitter":"https://twitter.com/NeilJBotelho",
-        "linkedin":"https://www.linkedin.com/in/neilbotelho/",
-        "github":"https://github.com/neilbotelho",
-        "profileImage":"neil.jpeg",
-        "website":""
-    },
-    {
-        "name":"Prachi Mahambrey",
-        "designation":"Management",
-        "organisation":"AITD",
-        "twitter":"https://twitter.com/PrachiMahambrey",
-        "linkedin":"https://www.linkedin.com/in/prachimahambrey/",
-        "github":"https://github.com/PrachiMahambrey",
-        "profileImage":"prachi.jpeg",
-        "website":""
-    },
-    {
-        "name":"Rudraksh Kanekar",
-        "designation":"Graphic Design",
-        "organisation":"GEC",
-        "twitter":"https://twitter.com/rude_drax",
-        "linkedin":"https://www.linkedin.com/in/rudraksh-kanekar-63a403184/",
-        "github":"https://github.com/RudrakshK",
-        "profileImage":"rudraksh.jpeg",
-        "website":""
-    },
-    {
-        "name":"Shawn Pereira",
-        "designation":"Management",
-        "organisation":"GEC",
-        "twitter":"https://twitter.com/Incept_shawn",
-        "linkedin":"https://www.linkedin.com/in/shawn-pereira/",
-        "github":"https://github.com/recurshawn",
-        "profileImage":"shawn.jpeg",
-        "website":""
-    },
-    {
-        "name":"Sheena Mashelkar",
-        "designation":"Management",
-        "organisation":"DBCE",
-        "twitter":"",
-        "linkedin":"https://www.linkedin.com/in/sheena-mashelkar-040545168",
-        "github":"",
-        "profileImage":"sheena.jpeg",
-        "website":""
-    },
-    {
-        "name":"Shrey Keny",
-        "designation":"Development",
-        "organisation":"PCCE",
-        "twitter":"https://twitter.com/ShreyKeny",
-        "linkedin":"https://www.linkedin.com/in/shreykeny/",
-        "github":"https://github.com/shreykeny",
-        "profileImage":"shrey.jpeg",
-        "website":""
-    },
-    {
-        "name":"Twishi Saran",
-        "designation":"Logistics",
-        "organisation":"GEC",
-        "twitter":"https://twitter.com/TwishiSaran",
-        "linkedin":"https://www.linkedin.com/in/twishi-saran-3a9a70189/",
-        "github":"",
-        "profileImage":"twishi.jpeg",
-        "website":""
-    },
-    {
-        "name":"Vipul Chodankar",
-        "designation":"Development",
-        "organisation":"GEC",
-        "twitter":"https://twitter.com/vipul_chodankar",
-        "linkedin":"https://www.linkedin.com/in/vipulchodankar/",
-        "github":"https://github.com/vipulchodankar/",
-        "profileImage":"vipul.jpeg",
-        "website":"https://vipul-chodankar.web.app/"
-    }
+  {
+    "name": "Ashwin Naik",
+    "designation": "Management",
+    "organisation": "NITG",
+    "twitter": "https://twitter.com/AHolmes1208",
+    "linkedin": "https://www.linkedin.com/in/aholmes1208",
+    "github": "https://github.com/aholmes2534",
+    "profileImage": "ashwin.jpeg",
+    "website": ""
+  },
+  {
+    "name": "Jonathan Pereira",
+    "designation": "Mentor",
+    "organisation": "Automation Anywhere",
+    "twitter": "https://twitter.com/GoanIdle",
+    "linkedin": "https://www.linkedin.com/in/jonathanp1/",
+    "github": "",
+    "profileImage": "jonathan.jpg",
+    "website": ""
+  },
+  {
+    "name": "Prachi Mahambrey",
+    "designation": "Management",
+    "organisation": "AITD",
+    "twitter": "https://twitter.com/PrachiMahambrey",
+    "linkedin": "https://www.linkedin.com/in/prachimahambrey/",
+    "github": "https://github.com/PrachiMahambrey",
+    "profileImage": "prachi.jpeg",
+    "website": ""
+  },
+  {
+    "name": "Rudraksh Kanekar",
+    "designation": "Graphic Design",
+    "organisation": "GEC",
+    "twitter": "https://twitter.com/rude_drax",
+    "linkedin": "https://www.linkedin.com/in/rudraksh-kanekar-63a403184/",
+    "github": "https://github.com/RudrakshK",
+    "profileImage": "rudraksh.jpeg",
+    "website": ""
+  },
+  {
+    "name": "Shawn Pereira",
+    "designation": "Management",
+    "organisation": "GEC",
+    "twitter": "https://twitter.com/Incept_shawn",
+    "linkedin": "https://www.linkedin.com/in/shawn-pereira/",
+    "github": "https://github.com/recurshawn",
+    "profileImage": "shawn.jpeg",
+    "website": ""
+  },
+  {
+    "name": "Sheena Mashelkar",
+    "designation": "Management",
+    "organisation": "DBCE",
+    "twitter": "",
+    "linkedin": "https://www.linkedin.com/in/sheena-mashelkar-040545168",
+    "github": "",
+    "profileImage": "sheena.jpeg",
+    "website": ""
+  },
+  {
+    "name": "Shrey Keny",
+    "designation": "Development",
+    "organisation": "PCCE",
+    "twitter": "https://twitter.com/ShreyKeny",
+    "linkedin": "https://www.linkedin.com/in/shreykeny/",
+    "github": "https://github.com/shreykeny",
+    "profileImage": "shrey.jpeg",
+    "website": ""
+  },
+  {
+    "name": "Twishi Saran",
+    "designation": "Logistics",
+    "organisation": "GEC",
+    "twitter": "https://twitter.com/TwishiSaran",
+    "linkedin": "https://www.linkedin.com/in/twishi-saran-3a9a70189/",
+    "github": "",
+    "profileImage": "twishi.jpeg",
+    "website": ""
+  },
+  {
+    "name": "Vipul Chodankar",
+    "designation": "Development",
+    "organisation": "GEC",
+    "twitter": "https://twitter.com/vipul_chodankar",
+    "linkedin": "https://www.linkedin.com/in/vipulchodankar/",
+    "github": "https://github.com/vipulchodankar/",
+    "profileImage": "vipul.jpeg",
+    "website": "https://vipul-chodankar.web.app/"
+  }
 ]
