@@ -31,25 +31,25 @@
 <script>
 import ChapterDetails from "@/assets/data/pyGoa.json";
 import aboutPyGoa from "@/components/about/aboutPyGoa";
-import contactInfo from "@/components/about/contactInfo";
+// import contactInfo from "@/components/about/contactInfo";
 //import coc from '@/components/about/coc'
 //import AntiHarassmentPolicy from '@/components/about/AntiHarassmentPolicy'
-import TemplatePartner from "@/components/about/TemplatePartner";
+// import TemplatePartner from "@/components/about/TemplatePartner";
 import coreTeam from "@/components/team/pyGoaTeam";
 export default {
   components: {
     aboutPyGoa,
-    contactInfo,
+    // contactInfo,
     //coc,
     //AntiHarassmentPolicy,
-    TemplatePartner,
-    coreTeam
+    // TemplatePartner,
+    coreTeam,
   },
   data() {
     return {
-      ChapterDetails: ChapterDetails
+      ChapterDetails: ChapterDetails,
     };
-  }
+  },
 };
 </script>
 

@@ -30,6 +30,16 @@
     "website": ""
   },
   {
+    "name": "Riddhi Siddarkar",
+    "designation": "Management",
+    "organisation": "GEC",
+    "twitter": "https://twitter.com/siddarkar",
+    "linkedin": "https://www.linkedin.com/in/riddhi-siddarkar-075378191",
+    "github": "https://github.com/riddhisiddarkar",
+    "profileImage": "riddhi.jpeg",
+    "website": "https://riddhisiddarkar.github.io/portfoliosite/"
+  },
+  {
     "name": "Rudraksh Kanekar",
     "designation": "Graphic Design",
     "organisation": "GEC",
@@ -67,6 +77,16 @@
     "linkedin": "https://www.linkedin.com/in/shreykeny/",
     "github": "https://github.com/shreykeny",
     "profileImage": "shrey.jpeg",
+    "website": ""
+  },
+  {
+    "name": "TS Vishwak",
+    "designation": "Management",
+    "organisation": "GEC",
+    "twitter": "https://twitter.com/TSVishwak",
+    "linkedin": "https://www.linkedin.com/in/t-s-v-747a89128/",
+    "github": "https://github.com/Vish-github",
+    "profileImage": "vishwak.jpeg",
     "website": ""
   },
   {

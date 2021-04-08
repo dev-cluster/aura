@@ -85,10 +85,10 @@ import whatWeDo from "@/components/home/whatWeDo";
 import whatWeOffer from "@/components/home/whatWeOffer";
 import AboutPyGoa from "@/components/home/AboutPyGoa";
 import AboutGDGChapter from "@/components/home/AboutGDGChapter";
-import eventshowcase from "@/components/home/eventshowcase";
+// import eventshowcase from "@/components/home/eventshowcase";
 // import wtmInfo from '@/components/home/wtmInfo'
 import partners from "@/components/home/partners";
-import featureEvent from "@/components/home/featureEvent";
+// import featureEvent from "@/components/home/featureEvent";
 
 export default {
   components: {
@@ -97,11 +97,11 @@ export default {
     whatWeOffer,
     AboutPyGoa,
     AboutGDGChapter,
-    eventshowcase,
+    // eventshowcase,
     // wtmInfo,
     partners,
-    featureEvent
-  }
+    //featureEvent
+  },
 };
 </script>
 
